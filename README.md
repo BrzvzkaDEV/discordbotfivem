@@ -1,5 +1,9 @@
-# Ice-Fivem-js
+# Discord Fivem BOT
+
 Version 1.5.2 
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 ## Setup.txt
 Thanks for downloading
 
